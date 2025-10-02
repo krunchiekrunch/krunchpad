@@ -17,24 +17,24 @@ A macropad powered by RP2040
 # BOM
 | Qty  | Item                               | Notes                     | Cost (USD)| URL     |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 1    | Seeed Studio XIAO RP2040           | Microcontroller           | $4.68     | [URL](https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/102010428/14672129) |
-| 12   | THT 1N4148 Diode (DO-35 Footprint) | For switch matrix         | $0.41     | [URL](https://www.digikey.co.uk/en/products/detail/diotec-semiconductor/1N4148/13164514) |
-| 12   | MX-Style Switches                  | Mechanical key switches   |           |         |
-| 1    | EC11 Rotary Encoder                | Volume control            | $1.87     | [URL](https://www.digikey.co.uk/en/products/detail/bourns-inc/PEC11R-4215K-S0012/4499639) |
-| 1    | 0.91" OLED Display                 |                           |           |         |
-| 12   | Keycaps                            |                           |           |         |
-| 5    | M3x5mmx4mm Heatset Inserts (W*H)   | For mounting              |           |         |
-| 6    | M3 Screws (5.6mm Max)              | For case assembly         |           |         |
+| 1    | Seeed Studio XIAO RP2040           | Microcontroller           | $8.53     | [AE](https://www.aliexpress.com/item/1005006951950465.html) |
+| 12   | THT 1N4148 Diode (DO-35 Footprint) | For switch matrix         | $0.22     | [LCSC](https://www.lcsc.com/product-detail/C49318123.html) |
+| 12   | MX-Style Switches                  | Mechanical key switches   | $3.89     | [AE](https://www.aliexpress.com/item/1005009249474760.html) |
+| 1    | EC11 Rotary Encoder                | Volume control            | $2.42     | [AE](https://www.aliexpress.com/item/1005008413622715.html) |
+| 1    | 0.91" OLED Display                 |                           | $1.63     | [AE](https://www.aliexpress.com/item/32810205605.html) |
+| 12   | Blank DSA Keycaps                  |                           |           |         |
+| 5    | M3x5mmx4mm Heatset Inserts (W*H)   | For mounting              | $1.79     | [AE](https://www.aliexpress.com/item/1005007640664497.html) |
+| 6    | M3 Screws (5.6mm Max)              | For case assembly         | $1.53     | [AE](https://www.aliexpress.com/item/1005003670389142.html) |
 |------|------------------------------------|---------------------------|-----------|---------|
-| 1    | Soldering Iron + Solder            | Tools                     |           |         |
-| 1    | 3D Printed Case                    | Custom enclosure          |           |         |
-| 1    | PCB                                |                           |           |         |
+| 1    | Soldering Iron + Solder            | Tools                     | $18.00    |         |
+| 1    | 3D Printed Case                    | Custom enclosure          | $3.00     |         |
+| 1    | PCB                                |                           | $1.80     |         |
 |------|------------------------------------|---------------------------|-----------|---------|
 | 2    | 2.54mm 4POS Header (Included)      | OLED Mounting             |           |         |
-| 2    | 2.54mm 4POS Socket                 | OLED Mounting             | $0.25     | [URL](https://www.digikey.co.uk/en/products/detail/adam-tech/RS1-04-G/9829303) |
-| 2    | 2.54mm 7POS Header                 | MCU Mounting              | $0.20     | [URL](https://www.digikey.co.uk/en/products/detail/adam-tech/PH1-07-UA/9830505) |
-| 2    | 2.54mm 7POS Socket                 | MCU Mounting              | $0.84     | [URL](https://www.digikey.co.uk/en/products/detail/adam-tech/RS1-07-G/9832045) |
-| 12   | Kailh MX Hotswap Socket (Optional) | Hotswapping for switches  | $4.95     | [URL](https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/4958/13997772) |
+| 2    | 2.54mm 4POS Socket                 | OLED Mounting             | $0.43     | [LCSC](https://www.lcsc.com/product-detail/C7509546.html) |
+| 2    | 2.54mm 7POS Header (Included)      | MCU Mounting              |           |         |
+| 2    | 2.54mm 7POS Socket                 | MCU Mounting              | $0.45     | [LCSC](https://www.lcsc.com/product-detail/C25503116.html) |
+| 12   | Kailh MX Hotswap Socket (Optional) | Hotswapping for switches  | $2.92     | [AE](https://www.aliexpress.com/item/1005007052649640.html) |
 |------|------------------------------------|---------------------------|-----------|---------|
 
 # Cases
