@@ -5,14 +5,14 @@ A macropad powered by RP2040
 
 | Schematic | PCB | 3D Preview | Case |
 |:---------:|:---:|:----:|:----:|
-| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/schematic.png) | ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/cad-v1.3.png) |
-| | | ![3D-Back](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dback.png) | |
+| ![Schematic](assets/schematic.png) | ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Baseplate](assets/cad-v1.3.png) |
+| | | ![3D-Back](assets/3dback.png) | |
 
 # Case
 
 | Layout | Layout | Layout |
 | :----: | :----: | :----: |
-| ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case1-v1.3.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case2.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case3.png) |
+| ![](assets/case/case1-v1.3.png) | ![](assets/case/case2.png) | ![](assets/case/case3.png) |
 
 # BOM
 | Qty  | Item                               | Notes                     | Cost (USD)| URL     |
