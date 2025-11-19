@@ -1,29 +1,24 @@
-### Features
+# REQUIRE CIRCUITPYTHON 9 (NOT 10)
 
-#### 3×4 Key Matrix
+# Dependencies
+- KMK
+- [Adafruit CPY SSD1306 lib](https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306/releases) (Download `adafruit-circuitpython-displayio-ssd1306-9.x-mpy-x.x.x.zip`
 
-* 12 customizable keys in 3 rows and 4 columns.
-* Default keymap sends letters A–L.
+Unzip and move `/lib/adafruit_displayio_ssd1306.mpy` to `/lib` of your microcontroller
 
-#### Rotary Encoder
+- [Adafruit CPY DIsplay Text lib](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text/releases) (Download `adafruit-circuitpython-display-text-9.x-mpy-x.x.x.zip`
 
-* EC11 rotary encoder connected to GPIO0 and GPIO1.
-* Turns:
+Unzip and move `/lib/adafruit_display_text` to `/lib` of your microcontroller
 
-  * Clockwise > Volume Up
-  * Counterclockwise > Volume Down
+# File structure
 
-#### OLED Display
-
-* Displays `"Hello World"` centered vertically on boot.
-* OLED dims after 10 seconds of inactivity, turns off after 20 minutes (1200 seconds).
-
----
-
-### Pins
-
-| Function       | GPIO Pins                                    |
-| -------------- | -------------------------------------------- |
-| Matrix Rows    | GP3, GP4, GP2                                |
-| Matrix Columns | GP26, GP27, GP28, GP29                       |
-| Encoder A/B    | GP1, GP0                                     |
+```
+CIRCUITPY/
+├─ kmk/
+│  ├─ ...
+├─ lib/
+│  ├─ adafruit_display_text/
+│  │  ├─ ...
+│  ├─ adafruit_displayio_ssd1306.mpy
+├─ main.py
+```
