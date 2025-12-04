@@ -10,6 +10,10 @@ Unzip and move `/lib/adafruit_displayio_ssd1306.mpy` to `/lib` of your microcont
 
 Unzip and move `/lib/adafruit_display_text` to `/lib` of your microcontroller
 
+- [Adafruit CPY NeoPixel lib](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel/blob/main/neopixel.py)
+
+Download and move to the root of the microcontroller storage
+
 # File structure
 
 ```
@@ -21,4 +25,5 @@ CIRCUITPY/
 │  │  ├─ ...
 │  ├─ adafruit_displayio_ssd1306.mpy
 ├─ main.py
+├─ neopixel.py
 ```
