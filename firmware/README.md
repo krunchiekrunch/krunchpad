@@ -26,4 +26,6 @@ CIRCUITPY/
 │  ├─ adafruit_displayio_ssd1306.mpy
 ├─ main.py
 ├─ neopixel.py
+├─ up.bmp
+├─ down.bmp
 ```
