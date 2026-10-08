@@ -1,4 +1,4 @@
-# REQUIRE CIRCUITPYTHON 9 (NOT 10)
+# CircuitPython (Tested with 9.2.9 and 10.3.1)
 
 # Dependencies
 - KMK
@@ -9,8 +9,6 @@ Unzip and move `/lib/adafruit_displayio_ssd1306.mpy` to `/lib` of your microcont
 - [Adafruit CPY DIsplay Text lib](https://github.com/adafruit/Adafruit_CircuitPython_Display_Text/releases) (Download `adafruit-circuitpython-display-text-9.x-mpy-x.x.x.zip`
 
 Unzip and move `/lib/adafruit_display_text` to `/lib` of your microcontroller
-
-- [Adafruit CPY NeoPixel lib](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel/blob/main/neopixel.py)
 
 Download and move to the root of the microcontroller storage
 
@@ -25,7 +23,5 @@ CIRCUITPY/
 │  │  ├─ ...
 │  ├─ adafruit_displayio_ssd1306.mpy
 ├─ main.py
-├─ neopixel.py
-├─ up.bmp
-├─ down.bmp
+├─ boot.py
 ```
